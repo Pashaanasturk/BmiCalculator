@@ -23,7 +23,7 @@ export default function Calculator()
 
         if(bmi<25)
           {
-            setMessage("you are under weight");
+            setMessage("you are under weight test");
           }
           else if(bmi>=25 && bmi<=30)
             {
